@@ -1,0 +1,6 @@
+Server/node_modules
+
+Client
+Client/node_modules
+Client/__tests__
+Client/.bundle
